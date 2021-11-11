@@ -1,0 +1,36 @@
+[meta title:"Is 445 Hw9" description:"Short description of your project" /]
+
+[Header
+  fullWidth:true
+  title:"IS 445 HW9"
+  subtitle:"Idyll for Data Viz"
+  author:"Toby Tao"
+  authorLink:"https://github.com/yilint3/yilint3.github.io"
+  date:"Nov 2, 2021"
+  background:"#222222"
+  color:"#ffffff"
+   /]
+
+# Introduction
+
+// Comments are javascript Comments
+
+## Quick review of Markdown
+
+I can make lists:
+* thing 1
+* thing 2
+
+I can make ordered lists:
+1. stuff 1
+2. stuff 2
+
+Blocks of code are useful sometimes:
+
+```
+I am
+Toby Tao
+```
+
+## Images
+[img src:"https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/NaVi_logo.svg/1920px-NaVi_logo.svg.png" style:`{height:'300px'}`/]

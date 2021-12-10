@@ -5,11 +5,11 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - matplotlib=3.2.2
+  - matplotlib
   - pandas
   - ipywidgets
   - traitlets
-  - bqplot=0.12.30
+  - bqplot
   - mpl_toolkits
   
 
